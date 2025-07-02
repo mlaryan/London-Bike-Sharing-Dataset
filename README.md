@@ -1,4 +1,4 @@
-# 🚴‍♂️ London Bike Share Data Cleaning Project
+# 🚴‍♂️ London Bike Share Data Cleaning and EDA Project
 
 Welcome to the **London Bike Share Data Cleaning Project**, where I demonstrate data preprocessing, exploration, and visualization techniques using a real-world dataset. This project is a part of my **Data Analytics & Machine Learning portfolio** and focuses on preparing data for machine learning models.
 
