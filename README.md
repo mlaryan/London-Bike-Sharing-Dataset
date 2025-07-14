@@ -1,6 +1,8 @@
 # 🚴‍♂️ London Bike Share Data Cleaning and EDA Project
 
-Welcome to the **London Bike Share Data Cleaning Project**, where I demonstrate data preprocessing, exploration, and visualization techniques using a real-world dataset. This project is a part of my **Data Analytics & Machine Learning portfolio** and focuses on preparing data for machine learning models.
+How can data analytics on London’s bike-sharing system inform business decisions regarding maintenance schedules, demand-based pricing, and promotional strategies ?
+
+This project delves into how environmental elements like weather, humidity, and wind, along with temporal aspects such as the season, time of day, weekdays versus weekends, and holidays, influence bike usage patterns in London. The goal is to provide valuable insights that can inform inform business decisions regarding maintenance schedules, demand-based pricing, and promotional strategies.
 
 ![Alt text](D1.png)
 ![Alt text](D2.png)
