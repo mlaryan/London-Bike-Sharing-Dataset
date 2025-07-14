@@ -9,6 +9,15 @@ This project delves into how environmental elements like weather, humidity, and 
 
 ---
 
+## Business Use Cases / Applications :
+- Time-specific promotions (“Weekend Ride Discount” or “Summer Pass Offers”)
+- Workforce planning, Maintenance & redistribution
+- Urban planning, Better station placement
+- Demand-Based Pricing (pricing strategies based on time, weather, and holiday patterns)
+- Identify periods of low usage (perform maintenance with minimal disruption to users)
+
+---
+
 ## 📌 Project Highlights
 
 - ✅ Cleaned and preprocessed a daily bike-share dataset.
